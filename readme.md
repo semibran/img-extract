@@ -11,6 +11,6 @@ Generates a list of `images`, each mirroring the the appearance of `image` when 
 * `rects`: A list of rectangles of the format `{ size: [ w, h ], position: [ x, y ] }`
 * `images`: The resulting list of `HTMLCanvasElement` instances
 
-[npm badge]:      https://nodei.co/npm/img-extract?mini
-[npm package]:    https://www.npmjs.com/package/img-extract
+[npm package]: https://www.npmjs.com/package/img-extract
+[npm badge]:   https://nodei.co/npm/img-extract.png?mini
 
