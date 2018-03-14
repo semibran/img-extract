@@ -1,0 +1,16 @@
+{
+  "name": "img-extract",
+  "version": "0.0.0",
+  "description": "extract multiple images from a single source image",
+  "author": "semibran (Brandon Semilla)",
+  "license": "MIT",
+  "repository": "semibran/img-extract",
+  "main": "lib/img-extract.js",
+  "keywords": [
+    "extract",
+    "image",
+    "img",
+    "sprites",
+    "spritesheet"
+  ]
+}
