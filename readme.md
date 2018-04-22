@@ -1,5 +1,5 @@
 # img-extract
-> extract a subimage from a source image
+> tiny subimage extractor
 
 ## usage
 [![npm badge]][npm package]
