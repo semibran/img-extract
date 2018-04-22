@@ -1,6 +1,6 @@
 {
   "name": "img-extract",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "tiny subimage extractor",
   "author": "semibran (Brandon Semilla)",
   "repository": "semibran/img-extract",
