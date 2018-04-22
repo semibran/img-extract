@@ -1,16 +1,18 @@
 {
   "name": "img-extract",
   "version": "0.0.0",
-  "description": "extract multiple images from a single source image",
+  "description": "tiny subimage extractor",
   "author": "semibran (Brandon Semilla)",
-  "license": "MIT",
   "repository": "semibran/img-extract",
+  "license": "MIT",
   "main": "lib/img-extract.js",
   "keywords": [
     "extract",
     "image",
+    "subimage",
     "img",
     "sprites",
-    "spritesheet"
+    "spritesheet",
+    "game"
   ]
 }
